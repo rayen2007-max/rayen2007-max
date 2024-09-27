@@ -18,6 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rayen2007-max&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
