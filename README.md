@@ -32,3 +32,11 @@
 [![](https://visitcount.itsvg.in/api?id=rayen2007-max&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+![](https://tenor.com/view/devil-anime-wings-fire-power-gif-16671931)
+
+
+
